@@ -6,7 +6,6 @@ def sum(a: int, b: int) -> int:
 
 
 def main():
-    sum_res: int = sum(7, 3)
     print(sum_res)
 
 
