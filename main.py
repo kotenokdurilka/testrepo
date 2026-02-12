@@ -4,7 +4,7 @@ def sub(a: int, b: int) -> int:
 def sum(a: int, b: int) -> int:
     return a + b
 
-
+f
 def main():
     # docstring
     sub_res: int = sub(12, 8)
