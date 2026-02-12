@@ -6,7 +6,8 @@ def sum(a: int, b: int) -> int:
 
 
 def main():
-    sum_res: int = sum(7, 3)
+    # docstring
+    sub_res: int = sub(12, 8)
     print(sum_res)
 
 
